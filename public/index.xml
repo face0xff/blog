@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>face0xff&#39;s den</title>
+    
+    
+    
+    <link>/</link>
+    <description>Recent content on face0xff&#39;s den</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My participation in France Cyber Security Challenge 2020</title>
+      <link>/posts/my-participation-in-france-cyber-security-challenge-2020/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/my-participation-in-france-cyber-security-challenge-2020/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;p&gt;On June 27th 2020, I participated in the finals of the &lt;strong&gt;French Cyber Security Challenge&lt;/strong&gt;, a capture the flag brought by the &lt;a href=&#34;https://www.ssi.gouv.fr/&#34;&gt;&lt;strong&gt;ANSSI&lt;/strong&gt;&lt;/a&gt; (France&amp;rsquo;s National Cybersecurity Agency).&lt;/p&gt;
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          I am a french student in engineering and cybersecurity.
+I love computer science, security and challenges. I am especially drawn to fields such as offensive security, reverse engineering and cryptography. I love learning and sharing my knowledge.
+As a huge CTF enthusiast, I created SHRECS, a team with fellow students of my university. We&amp;rsquo;re not the best, nor do we have much free time to do plenty of competitions together, but we&amp;rsquo;re having fun.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>CVEs</title>
+      <link>/cves/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cves/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          aaa
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

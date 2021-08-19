@@ -1,0 +1,84 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "hello-friend"
+paginate = 5
+
+[params]
+  # dir name of your blog content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
+
+  # "light" or "dark"
+  defaultTheme = "light"
+
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 3
+
+  # Show reading time in minutes for posts
+  showReadingTime = false
+
+  # Show table of contents at the top of your posts (defaults to false)
+  # Alternatively, add this param to post front matter for specific posts
+  # toc = true
+
+  # Show full page content in RSS feed items
+  #(default is Description or Summary metadata in the front matter)
+  # rssFullText = true
+
+  custom_css = ["css/custom.css"]
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[languages]
+  [languages.en]
+    title = "face0xff's den"
+    subtitle = "My personal blog"
+    keywords = ""
+    copyright = ""
+    menuMore = "Links"
+    writtenBy = "Written by"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    minuteReadingTime = "min read"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
+    # leave empty to disable, enter display text to enable
+    # lastModDisplay = ""
+
+    [languages.en.params.logo]
+      logoText = "face@0xff"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+        weight = 1
+      [[languages.en.menu.main]]
+        identifier = "writeups"
+        name = "Writeups"
+        url = "https://ctf.0xff.re/"
+        weight = 2
+      [[languages.en.menu.main]]
+        identifier = "cves"
+        name = "CVEs"
+        url = "/cves"
+        weight = 3
+      [[languages.en.menu.main]]
+        identifier = "github"
+        name = "Github"
+        url = "https://github.com/face0xff"
+        weight = 4
+      [[languages.en.menu.main]]
+        identifier = "shrecs"
+        name = "SHRECS"
+        url = "https://shrecs.fr/"
+        weight = 5
