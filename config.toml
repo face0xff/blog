@@ -26,6 +26,7 @@ paginate = 5
   # rssFullText = true
 
   custom_css = ["css/custom.css"]
+  custom_js = ["js/custom.js"]
 
 [markup.goldmark.renderer]
   unsafe = true
@@ -67,6 +68,8 @@ paginate = 5
         name = "Writeups"
         url = "https://ctf.0xff.re/"
         weight = 2
+        [languages.en.menu.main.params]
+          newtab = 1
       [[languages.en.menu.main]]
         identifier = "cves"
         name = "CVEs"
@@ -77,8 +80,12 @@ paginate = 5
         name = "Github"
         url = "https://github.com/face0xff"
         weight = 4
+        [languages.en.menu.main.params]
+          newtab = 1
       [[languages.en.menu.main]]
         identifier = "shrecs"
         name = "SHRECS"
         url = "https://shrecs.fr/"
         weight = 5
+        [languages.en.menu.main.params]
+          newtab = 1
