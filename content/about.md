@@ -2,11 +2,14 @@
 title: "About me"
 ---
 
-I am a french student in engineering and cybersecurity.
+I am a security analyst and reverse engineer from France.
 
-I love computer science, security and challenges. I am especially drawn to fields such as offensive security, reverse engineering and cryptography. I love learning and sharing my knowledge.
+I love computer science, security and challenges. I am especially drawn to fields such as offensive security, reverse engineering, binary exploitation and cryptography. I love learning and sharing my knowledge.
 
-As a huge CTF enthusiast, I created [SHRECS](https://shrecs.fr/), a team with fellow students of my university.
-We're not the best, nor do we have much free time to do plenty of competitions together, but we're having fun.
+Previously, I have played CTFs with [SHRECS](https://shrecs.fr/), a team that I created with fellow students of my university.
+During that time, we helped promoting the CTF culture in CentraleSupélec, and won multiple competitions such as Imperial CTF, HackDay, THCon CTF and Orange CTF.
+
+I was also part of [ECSC Team France](https://ctftime.org/team/159269) for three years,
+including when we finished 3rd place in European Cyber Security Challenge 2022 (Vienna edition).
 
 You can hit me up on Discord @face0xff#7693.

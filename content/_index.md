@@ -6,5 +6,5 @@ framed: true
 
 # face0xff
 
-Cybersecurity Student &middot; Passionate CTF player<br />
-Team France 2020, 2021, 2022
+Reverse Engineer &middot; Passionate CTF player<br />
+ECSC Team France 2020, 2021, 2022
