@@ -9,7 +9,7 @@ I love computer science, security and challenges. I am especially drawn to field
 Previously, I have played CTFs with [SHRECS](https://shrecs.fr/), a team that I created with fellow students of my university.
 During that time, we helped promoting the CTF culture in CentraleSupélec, and won multiple competitions such as Imperial CTF, HackDay, THCon CTF and Orange CTF.
 
-I was also part of [ECSC Team France](https://ctftime.org/team/159269) for three years,
+I have also been part of [ECSC Team France](https://ctftime.org/team/159269) for four years in a row,
 including when we finished 3rd place in European Cyber Security Challenge 2022 (Vienna edition).
 
-You can hit me up on Discord @face0xff#7693.
+You can hit me up on Discord @face0xff.
