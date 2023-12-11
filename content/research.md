@@ -14,3 +14,6 @@ title: "Research"
 * [CVE-2021-37595 in FreeRDP — Remote Arbitrary File Read](/cves/cve-2021-37595-freerdp-remote-arbitrary-file-read)
 * [CVE-2021-37594 in FreeRDP — Remote Memory Leak](/cves/cve-2021-37594-freerdp-remote-memory-leak)
 
+## Other
+
+* [Remote Code Execution in Steam Remote Play](https://blog.thalium.re/posts/achieving-remote-code-execution-in-steam-remote-play/)
