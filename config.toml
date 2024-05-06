@@ -89,10 +89,3 @@ paginate = 5
         weight = 5
         [languages.en.menu.main.params]
           newtab = 1
-      [[languages.en.menu.main]]
-        identifier = "shrecs"
-        name = "SHRECS"
-        url = "https://shrecs.fr/"
-        weight = 6
-        [languages.en.menu.main.params]
-          newtab = 1

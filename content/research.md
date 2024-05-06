@@ -9,6 +9,7 @@ title: "Research"
 
 ## CVEs
 
+* [CVE-2023-51364, CVE-2023-51365 in QNAP QTS — Remote Code Execution](/cves/cve-2023-51364-cve-51365-qnap-qts-rce)
 * [CVE-2021-38666 in Windows — Remote Code Execution in the RDP client](/cves/cve-2021-38666-microsoft-rdp-client-rce)
 * [CVE-2021-38665 in Windows — Remote Heap Leak in the RDP client](/cves/cve-2021-38665-microsoft-rdp-client-heap-leak)
 * [CVE-2021-37595 in FreeRDP — Remote Arbitrary File Read](/cves/cve-2021-37595-freerdp-remote-arbitrary-file-read)
