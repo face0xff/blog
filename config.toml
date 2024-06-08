@@ -75,3 +75,8 @@ paginate = 5
         name = "Research"
         url = "/research"
         weight = 3
+      [[languages.en.menu.main]]
+        identifier = "challenges"
+        name = "Challenges"
+        url = "/challenges"
+        weight = 4
