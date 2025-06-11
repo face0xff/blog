@@ -28,5 +28,4 @@ jobs:
         external_repository: face0xff/face0xff.github.io
         publish_branch: master
         publish_dir: ./public
-        emptyCommits: false
-        commitMessage: ${{ github.event.head_commit.message }}
+        commit_message: ${{ github.event.head_commit.message }}
