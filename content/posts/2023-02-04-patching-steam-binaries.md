@@ -72,7 +72,7 @@ if ( *((_DWORD *)FileContents + 17) != 1 )
 
 Something related to Valve? What could it mean? Let's check it out inside an actual binary from the Steam folder:
 
-<pre style="background:rgba(20,20,40,0.9)">
+<pre style="background:rgba(20,20,40,0.9); white-space: pre;">
 <span style="color:#fff">╭─</span><b><span style="color:#67F86F">face@0xff</span></b><span style="color:#fff"> </span><b><span style="color:#6A76FB">~/Steam </span></b><span style="color:#fff"></span>
 <span style="color:#fff">╰─</span><b><span style="color:#fff">$</span></b><span style="color:#fff"> hexdump -C steamerrorreporter.exe | head -n 20</span>
 <span style="color:#fff">00000000  4d 5a 90 00 03 00 00 00  04 00 00 00 ff ff 00 00  |MZ..............|</span>

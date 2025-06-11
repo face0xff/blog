@@ -1,18 +1,18 @@
 ---
-title: European Cyber Week CTF Quals 2021 — Pipe Dream (Writeup)
+title: "ECW CTF 2021: Pipe Dream (Writeup)"
 slug: ecw-ctf-2021-pipe-dream-writeup
 type:
   - post
   - posts
 date: 2021-10-24
 mathjax: true
+description: |
+    From October 8th to October 24th took place the online qualification round for the European Cyber Week CTF Finals, that are held every year in Rennes, France. I had the opportunity to create a reverse engineering challenge for this event as part of an internship at Thalium.
 ---
 
 From October 8th to October 24th took place the **online qualification round for the European Cyber Week CTF Finals**, that are held every year in Rennes, France.
 
 I had the opportunity to **create a challenge** for this event as part of my internship at Thalium. This was the first time I actually publish a challenge and I hope those who gave it a try enjoyed it.
-
-<!--more-->
 
 This writeup is of course not meant to convey the perspective of a player, but rather aims to be an explanation of the task and my thoughts as its author.
 
