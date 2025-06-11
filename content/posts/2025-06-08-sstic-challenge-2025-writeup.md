@@ -4,7 +4,7 @@ slug: sstic-challenge-2025-writeup
 type:
   - post
   - posts
-date: 2025-06-12
+date: 2025-06-12T00:00:00+02:00
 mathjax: true
 description: |
     A detailed walkthrough of the renowned SSTIC challenge's 2025 edition, featuring reverse engineering, deobfuscation, browser exploit, cryptography and steganography.
