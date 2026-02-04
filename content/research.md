@@ -4,7 +4,7 @@ title: "Research"
 
 ## Talks
 
-* Don't judge an audiobook by its cover: taking over your Amazon account with a Kindle @ [Black Hat Europe 2025](https://www.blackhat.com/eu-25/briefings/schedule/index.html#dont-judge-an-audiobook-by-its-cover-taking-over-your-amazon-account-with-a-kindle-48836), [CODE BLUE 2025](https://codeblue.jp/en/program/time-table/day1-t1-04/)
+* Don't judge an audiobook by its cover: taking over your Amazon account with a Kindle @ [Black Hat Europe 2025](https://www.blackhat.com/eu-25/briefings/schedule/index.html#dont-judge-an-audiobook-by-its-cover-taking-over-your-amazon-account-with-a-kindle-48836), [CODE BLUE 2025](https://www.youtube.com/watch?v=khz5G9wr38I)
 * Bug hunting in Steam: a journey into the Remote Play protocol @ [SSTIC 2023](https://www.sstic.org/2023/presentation/bug_hunting_in_steam_remote_play/) ([paper](https://www.sstic.org/media/SSTIC2023/SSTIC-actes/bug_hunting_in_steam_remote_play/SSTIC2023-Article-bug_hunting_in_steam_remote_play-ricotta.pdf))
 * Fuzzing Microsoft's RDP Client using Virtual Channels @ [SSTIC 2022](https://www.sstic.org/2022/presentation/fuzzing_microsofts_rdp_client_using_virtual_channels/) ([paper](https://www.sstic.org/media/SSTIC2022/SSTIC-actes/fuzzing_microsofts_rdp_client_using_virtual_channe/SSTIC2022-Article-fuzzing_microsofts_rdp_client_using_virtual_channels-ricotta.pdf))
 
