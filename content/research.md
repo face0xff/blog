@@ -10,7 +10,7 @@ title: "Research"
 
 ## CVEs
 
-* TBA in Philips Hue Bridge (Pwn2Own Ireland 2025)
+* [CVE-2026-3561 in Philips Hue Bridge](/cves/cve-2026-3561-philips-hue-bridge-rce) (Pwn2Own Ireland 2025)
 * [CVE-2023-51364, CVE-2023-51365 in QNAP QTS: RCE](/cves/cve-2023-51364-51365-qnap-qts-rce) (Pwn2Own Toronto 2023)
 * [CVE-2021-38666 in Windows: RCE in the RDP client](/cves/cve-2021-38666-microsoft-rdp-client-rce)
 * [CVE-2021-38665 in Windows: Remote Heap Leak in the RDP client](/cves/cve-2021-38665-microsoft-rdp-client-heap-leak)
