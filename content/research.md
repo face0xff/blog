@@ -4,6 +4,7 @@ title: "Research"
 
 ## Talks
 
+* Flicker and fall: rooting the Philips Hue Bridge both remotely and wirelessly @ [SSTIC 2026](https://www.sstic.org/2026/presentation/flicker_and_fall_rooting_the_philips_hue_bridge_both_remotely_and_wirelessly/) ([paper](https://www.sstic.org/media/SSTIC2026/SSTIC-actes/flicker_and_fall_rooting_the_philips_hue_bridge_bo/SSTIC2026-Article-flicker_and_fall_rooting_the_philips_hue_bridge_both_remotely_and_wirelessly-remy_verstraeten_cha_IIp7ec0.pdf))
 * Don't judge an audiobook by its cover: taking over your Amazon account with a Kindle @ [Black Hat Europe 2025](https://www.blackhat.com/eu-25/briefings/schedule/index.html#dont-judge-an-audiobook-by-its-cover-taking-over-your-amazon-account-with-a-kindle-48836), [CODE BLUE 2025](https://www.youtube.com/watch?v=khz5G9wr38I)
 * Bug hunting in Steam: a journey into the Remote Play protocol @ [SSTIC 2023](https://www.sstic.org/2023/presentation/bug_hunting_in_steam_remote_play/) ([paper](https://www.sstic.org/media/SSTIC2023/SSTIC-actes/bug_hunting_in_steam_remote_play/SSTIC2023-Article-bug_hunting_in_steam_remote_play-ricotta.pdf))
 * Fuzzing Microsoft's RDP Client using Virtual Channels @ [SSTIC 2022](https://www.sstic.org/2022/presentation/fuzzing_microsofts_rdp_client_using_virtual_channels/) ([paper](https://www.sstic.org/media/SSTIC2022/SSTIC-actes/fuzzing_microsofts_rdp_client_using_virtual_channe/SSTIC2022-Article-fuzzing_microsofts_rdp_client_using_virtual_channels-ricotta.pdf))

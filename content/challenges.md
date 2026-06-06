@@ -7,6 +7,26 @@ This page indexes some challenges I have created in the past for various occasio
 
 ---
 
+## FCSC 2026: inferno
+
+<span class="challenge-tag">#reverse</span> <span class="challenge-tag">#bsd</span> <span class="challenge-tag">#puzzle</span>
+
+A hard reverse engineering challenge I made for France Cyber Security Challenge (the national qualifier organized by ANSSI for the European Cyber Security Challenge).
+
+It revolves around DTrace, an in-kernel VM used for dynamic instrumentation on FreeBSD. To uncover the final image flag, players are expected to plunge into some kernel internals, study undocumented formats, and piece together a tiling puzzle.
+
+Download the binary [here](/challs/inferno) (tested on FreeBSD 15.0, amd64).
+
+<div class="spoiler">
+The binary reads an input BMP file and interacts with the DTrace device to push a program to the kernel via a <em>DTrace Object File</em> (DOF). This program registers <em>probes</em>, which are hooks on kernel functions that can run arbitrary logic. The userland process performs bogus syscalls to trigger these hooks, thus splitting the flag checking logic between userland and kernel.
+
+Players must reverse the DIF bytecode (_DTrace Intermediate Format_) to understand they have to solve a [Sashigane](https://www.nikoli.co.jp/en/puzzles/sashigane/) puzzle. The puzzle's solution must be hidden in the pixels' least significant bits. A unique key is derived from this solution and used to encrypt the input image. The final verification involves factorization of polynomials over a finite field.
+</div>
+
+Here is a [community write-up](https://gist.github.com/celi0n/591c237e64ee05c20369b1a4bdd25081) for this challenge.
+
+---
+
 ## SSTIC 2024: The Green Shard Brawl
 
 <span class="challenge-tag">#pwn</span> <span class="challenge-tag">#linux</span> <span class="challenge-tag">#heap</span>
